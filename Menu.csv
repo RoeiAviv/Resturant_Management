@@ -1,0 +1,13 @@
+name, category, price, ingredients
+Arenchine, First Course, 32.0, "Cheese. Rice. Mozzarella. Olive oil. Garlic. Butter"
+Caesar salad, First Course, 52.0, "Lettuce. Tomato. Carotenes. Parmesan. Caesar sauce"
+Cherry tomato salad, First Course, 49.0, "Cherry tomatoes. Pine nuts. Basil. Garlic"
+Pasta, Main course, 68.0, "Pasta. Cream. Butter. Mushrooms. Garlic. Onion"
+Bruta Rosa pasta, Main course, 65.0, "Pasta. Butter. Garlic. Tomato paste. Cream. Parmesan"
+Margherita pizza, Main course, 72.0, "Pizza flour. Salt. Olive oil. Pizza sauce. Mozzarella balls"
+Baked cheesecake, Dessert, 25.0, "Cream cheese. flour. Eggs. Sugar. Sour cream"
+chocolate chip cookies, Dessert, 48.0, "Flour. Baking powder. Baking soda. Butter. Sugar. Eggs. Chocolates"
+Amsterdam cookies, Dessert, 48.0, "Flour. Butter. Cocoa. Eggs. Sugar. Baking soda. Milk chocolate."
+Water, Beverage, 6.5, "Water"
+Arak, Beverage, 16.0, " Arak"
+Mojito cocktail, Beverage, 42.0, " Light rum. Ice. Lime. Mint. Brown sugar"
